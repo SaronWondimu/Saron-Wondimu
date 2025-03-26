@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saron | Psychologist & Mental Health Advocate</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        header { background-color: #0077b6; color: white; padding: 20px; text-align: center; }
+        section { padding: 20px; max-width: 900px; margin: auto; }
+        .container { background: white; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); }
+        h1, h2 { color: #0077b6; }
+        .contact { text-align: center; }
+        footer { text-align: center; padding: 10px; background: #0077b6; color: white; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Saron | Psychologist & Mental Health Advocate</h1>
+    </header>
+    
+    <section class="container">
+        <h2>About Me</h2>
+        <p>I'm Saron, a counseling psychologist with experience working with adolescents, youth, and vulnerable communities. I specialize in mental health awareness, one-to-one counseling, and community-based interventions.</p>
+    </section>
+    
+    <section class="container">
+        <h2>My Work</h2>
+        <ul>
+            <li>School Counselor at Cambridge Academy</li>
+            <li>Psychosocial Support at Shamiri Institute</li>
+            <li>Trauma Healing & Youth Empowerment at Elevate Ethiopia</li>
+            <li>Mental Health Advocacy & Training</li>
+        </ul>
+    </section>
+    
+    <section class="container">
+        <h2>Projects & Research</h2>
+        <p>My recent research focused on the prevalence of depression, anxiety, and stress among individuals seeking treatment at Tikur Anbessa Hospital.</p>
+    </section>
+    
+    <section class="container contact">
+        <h2>Contact</h2>
+        <p>Let's connect! Reach me at <strong>saron@email.com</strong></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Saron. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
